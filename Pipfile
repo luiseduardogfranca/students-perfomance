@@ -9,6 +9,7 @@ jupyter="*"
 matplotlib="*"
 pandas="*"
 scikit-learn="*"
+seaborn="*"
 
 [dev-packages]
 black="*"
