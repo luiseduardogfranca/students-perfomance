@@ -7,6 +7,7 @@ The dataset is hosted on Kaggle, and your inspiration is to undestand the influe
 
 ## Contributors
 
-	- [Émersn Silva](https://github.com/silvaemerson)
-	- [Luís Eduardo](https://github.com/luiseduardogfranca)
+   - [Émerson Silva](https://github.com/silvaemerson)
+
+   - [Luís Eduardo](https://github.com/luiseduardogfranca)
 
